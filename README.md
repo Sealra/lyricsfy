@@ -23,7 +23,7 @@ Si salta un error tipo " Error: Cannot find module 'nombreX' "
 
 Esto es solucionado corriendo:
 
-### `npm instalL nombreX`
+### `npm install nombreX`
 
 IMPORTANTE!
 

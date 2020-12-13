@@ -19,15 +19,19 @@ Esto se abrirá en localhost:8888, es para la conectarse a la cuenta de spotify.
 
 Esto es la aplicación de React, se abrirá en localhost:3000.
 
+
+
+¡¡¡IMPORTANTE!!!
+
 Si salta un error tipo " Error: Cannot find module 'nombreX' "
 
 Esto es solucionado corriendo:
 
 ### `npm install nombreX`
 
-IMPORTANTE!
-
 Si no se descarga la carpeta "auth-sv":
 
 - Crear una carpeta llamada "auth-sv" dentro de la carpeta de donde se alla clonado este repositorio.
 - Clonar este repositorio dentro de aquella carpeta https://github.com/spotify/web-api-auth-examples
+
+
